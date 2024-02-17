@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\cap1.props" />
+</Project>

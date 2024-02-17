@@ -1,0 +1,183 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = cap1
+build_property.RootNamespace = cap1
+build_property.ProjectDir = D:\cap1\cap1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\cap1\cap1
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/cap1/cap1/Areas/Cadastros/Views/Departamento/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2FkYXN0cm9zXFZpZXdzXERlcGFydGFtZW50b1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Areas/Cadastros/Views/Departamento/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2FkYXN0cm9zXFZpZXdzXERlcGFydGFtZW50b1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Areas/Cadastros/Views/Departamento/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2FkYXN0cm9zXFZpZXdzXERlcGFydGFtZW50b1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Areas/Cadastros/Views/Departamento/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2FkYXN0cm9zXFZpZXdzXERlcGFydGFtZW50b1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Areas/Cadastros/Views/Departamento/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2FkYXN0cm9zXFZpZXdzXERlcGFydGFtZW50b1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Areas/Cadastros/Views/Instituicao/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2FkYXN0cm9zXFZpZXdzXEluc3RpdHVpY2FvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Areas/Cadastros/Views/Instituicao/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2FkYXN0cm9zXFZpZXdzXEluc3RpdHVpY2FvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Areas/Cadastros/Views/Instituicao/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2FkYXN0cm9zXFZpZXdzXEluc3RpdHVpY2FvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Areas/Cadastros/Views/Instituicao/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2FkYXN0cm9zXFZpZXdzXEluc3RpdHVpY2FvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Areas/Cadastros/Views/Instituicao/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2FkYXN0cm9zXFZpZXdzXEluc3RpdHVpY2FvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Areas/Cadastros/Views/Instituicao/_comDepartamento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2FkYXN0cm9zXFZpZXdzXEluc3RpdHVpY2FvXF9jb21EZXBhcnRhbWVudG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Areas/Cadastros/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2FkYXN0cm9zXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Areas/Discente/Views/Academico/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGlzY2VudGVcVmlld3NcQWNhZGVtaWNvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Areas/Discente/Views/Academico/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGlzY2VudGVcVmlld3NcQWNhZGVtaWNvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Areas/Discente/Views/Academico/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGlzY2VudGVcVmlld3NcQWNhZGVtaWNvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Areas/Discente/Views/Academico/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGlzY2VudGVcVmlld3NcQWNhZGVtaWNvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Areas/Discente/Views/Academico/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGlzY2VudGVcVmlld3NcQWNhZGVtaWNvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Areas/Discente/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGlzY2VudGVcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Views/Academico/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWNvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Views/Academico/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWNvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Views/Academico/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWNvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Views/Academico/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWNvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Views/Academico/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWNvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Views/Departamento/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Views/Departamento/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Views/Departamento/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Views/Departamento/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Views/Departamento/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Views/Infra/Acessar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mcmFcQWNlc3Nhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Views/Infra/RegistrarNovoUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mcmFcUmVnaXN0cmFyTm92b1VzdWFyaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Views/Shared/Erro404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm80MDQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Views/Shared/_LayoutIES.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRJRVMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cap1/cap1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-o9j0uap9er
